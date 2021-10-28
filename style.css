@@ -1,0 +1,33 @@
+body{
+    background-color:brown;
+    transform: rotate(20deg);
+}
+.header{
+    color: green;
+}
+p{
+    font-family: Arial;
+    color: red;
+}
+li{
+    color: red;
+}
+.raam{
+    display: flex;
+}
+.tabel{
+    border: 3px solid red;
+}
+th{
+    color:#D0AC00;
+}
+td{
+    border: 3px solid black;
+    font-family: Arial;
+}
+.column{
+    flex: 50%;
+}
+img{
+    border-style:dotted;
+}
